@@ -1,0 +1,36 @@
+# Unreal generated/cache folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE & local settings
+.vscode/
+.idea/
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/*EditorPerProject*.ini
+
+# Secrets & credentials
+*.key
+*.pem
+*.pfx
+*.p12
+*.certificate
+.env
+.env.local
+.env.*.local
+.credentials
+credentials.json
+secrets.json
+
+# OAuth/API Keys
+**/ApiKey*
+**/API_KEY*
+**/SECRET*
+**/Token*
+**/token.ini
+
+# Optional heavy content
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
+Content/XFXInfinityBladeEffects/

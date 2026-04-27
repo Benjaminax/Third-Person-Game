@@ -1,0 +1,23 @@
+Faculty of Computational Sciences and Informatics
+
+END OF MODULE EXAMINATION PROJECT
+CS3231 – Computer Graphics and Multimedia Systems
+Mini 3D Game Environment
+(Option A: Interactive 3D Scene Simulator)
+
+Team Members:
+- Albert Afful
+- Yoofi Egyin Brew-Hammond
+- Jeremy Bradley Aryee Arthur
+- Amazing Naa Dedei Quaye
+- Edinam Kumordjie
+- Benjamin Acheampong
+- Stanley Agambire
+- Bayaka Melvin Soale Braimah
+- Samuel Nii Ayitey Aryee
+- Erica Dzifa Agbana
+
+Course: CS3231 – Computer Graphics and Multimedia Systems
+Lecturer: Fredrick Boafo
+Submission Date: 29th April 2026
+Maximum Marks: 100

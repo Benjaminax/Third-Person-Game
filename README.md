@@ -65,11 +65,21 @@ Third-Person-Game/
 
 ## Screenshots
 
-![Gameplay Screenshot 1](screenshots/screenshot1.png)
-![Gameplay Screenshot 2](screenshots/screenshot2.png)
-![Gameplay Screenshot 3](screenshots/screenshot3.png)
-
-*(Replace the above with your actual screenshot filenames as needed)*
+<div align="center">
+	<img src="screenshots/Screenshot%202026-04-03%20165730.png" alt="Screenshot 1" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-03%20170049.png" alt="Screenshot 2" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-03%20170320.png" alt="Screenshot 3" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-03%20171055.png" alt="Screenshot 4" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-03%20183238.png" alt="Screenshot 5" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-03%20203106.png" alt="Screenshot 6" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-04%20000140.png" alt="Screenshot 7" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-04%20075836.png" alt="Screenshot 8" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-04%20120752.png" alt="Screenshot 9" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-04%20140215.png" alt="Screenshot 10" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-05%20004808.png" alt="Screenshot 11" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-05%20031409.png" alt="Screenshot 12" width="600"/>
+	<img src="screenshots/Screenshot%202026-04-05%20032038.png" alt="Screenshot 13" width="600"/>
+</div>
 
 ## Dependencies
 
